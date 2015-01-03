@@ -1,6 +1,16 @@
 VBA-SDL-H
 =========
 
+This is a fork of https://github.com/cosarara97/vba-sdl-h/
+It was created in order to make vba-sdl-h compile on Arch Linux.
+There is no support for creating png screenshots (only bmp) with this version, because
+there were major version issues with libpng which denied me to compile vba-sdl-h.
+
+Arch Linux AUR: https://aur.archlinux.org/packages/vba-sdl-h/
+
+Original Notice
+---------------
+
 This is a fork of VBA-SDL-H, as a result of the author's repository having
 been down for some time.
 
