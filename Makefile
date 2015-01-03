@@ -5,7 +5,7 @@ TARGET = vba-sdl-h
 BININSTALLPATH = /usr/bin
 ETC = /etc
 
-INCLUDES = -I/usr/include/libpng12 -I/usr/include/SDL -Isrc
+INCLUDES = -I/usr/include/SDL -Isrc
 
 LIBS = -L/usr/lib -lSDL -lpthread -lreadline -lz -lminizip
 
